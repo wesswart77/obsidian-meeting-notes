@@ -1,9 +1,9 @@
 {
   "id": "meeting-notes",
   "name": "Meeting Notes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
-  "description": "A meeting notes system for Obsidian: capture attendees, agenda, decisions, and action items with automatic extraction.",
+  "description": "A meeting notes system: capture attendees, agenda, decisions, and action items with automatic extraction.",
   "author": "wesswart77",
   "authorUrl": "https://github.com/wesswart77",
   "fundingUrl": "https://www.buymeacoffee.com/wesswart77",
