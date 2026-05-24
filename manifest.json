@@ -1,7 +1,7 @@
 {
   "id": "meeting-notes-plus",
-  "name": "Meeting Notes",
-  "version": "1.0.2",
+  "name": "Meeting Notes Plus",
+  "version": "1.0.3",
   "minAppVersion": "1.4.0",
   "description": "A meeting notes system: capture attendees, agenda, decisions, and action items with automatic extraction.",
   "author": "wesswart77",
